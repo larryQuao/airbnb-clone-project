@@ -64,7 +64,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 * Headings: Circular, Bold (700), 24px-32px
 * Secondary Text: Circular, Book (400), 14px
 
-### Roles and Responsibilities
+### Project Roles and Responsibilities
 | Role | Responsibilities |
 | :--- | :--- |
 | Project Manager | Oversees timeline, coordinates team, manages deliverables |
